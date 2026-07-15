@@ -1,3 +1,4 @@
+#BASICS1
 # 1. Write a python program to add two numbers.
 # 2. Write a python program to find remainder when a number is divided by z.
 # 3. Check the type of variable assigned using input() function.
@@ -37,7 +38,7 @@
 # num1=int(input("Enter num: "))
 # print(f"The square of {num1} is {num1**2} ")
 
-
+#BASICS2
 # 2. Write a program to fill in a letter template given below with name and date.
 # letter = '''
 # Dear <|Name|>,
